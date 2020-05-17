@@ -1,0 +1,7 @@
+-En la carpeta Arduino se encuentra el codigo que debe de importar al arduino a travez de el programa Arduino.
+
+-En la carpeta Diagrama Electronico se encuentra el diagrama que se usara para encender y apagar el LED
+
+-En la carpeta Librerias se encuentran todas las librerias que se usaron en el proyecto
+
+-El proyecto de Java esta en la carpeta Java, este proyecto se importara desde cualquier ide que use java, a la hora de importar el proyecto a travez del ide, debe de importar las librerias en el ide para que no salga errores en el proyecto, estas librerias se encuentran dentro del proyecto de java, la carpeta se llamara LibreriasJava
